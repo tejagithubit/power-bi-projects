@@ -47,12 +47,6 @@ This Power BI project presents an interactive **Sales Analytics Dashboard** for 
 - **Product type filter** (Bars, Bites, Other)
 - Interactive **buttons and bookmarks** to navigate between sections like Sales, Cost, Profit, etc.
 
-## 📁 How to Use
-1. Open the `.pbix` file in Power BI Desktop.
-2. Use the slicers on the left to filter by country or product type.
-3. Click the icon buttons at the top to switch views using bookmarks.
-4. Hover over visuals to explore detailed tooltips and trends.
-
 ## 💡 Learning Outcomes
 - Gained practical experience with **Power BI’s DAX language**
 - Designed a **custom theme** with corporate-style cards and consistent layout
